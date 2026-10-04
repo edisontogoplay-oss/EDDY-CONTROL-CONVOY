@@ -1,0 +1,17 @@
+{
+  "pack_name": "Eddy Control Convoy Pack",
+  "version": "v1.0",
+  "mods": [
+    {
+      "id": "edison_bde",
+      "name": "Edison BDE",
+      "game": "ATS",
+      "category": "TRUCK",
+      "description": "Mod de prueba del pack oficial de Eddy Control.",
+      "filename": "Edison_BDE.scs",
+      "url": "https://github.com/edisontogoplay-oss/EDDY-CONTROL-CONVOY/releases/download/v1.0/Edison_BDE.scs",
+      "size": 1858636801,
+      "sha256": "9473d01244d26847dceea6721e2b3934fa382886557c7ab6db05a087dc88cd69"
+    }
+  ]
+}
