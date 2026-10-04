@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "profiles": [
+    {
+      "id": "honduras_cascadia_test",
+      "name": "HONDURAS CASCADIA - PERFIL DE PRUEBA",
+      "game": "ATS",
+      "folder_name": "484F4E4455524153204341534341444941",
+      "description": "Perfil limpio de prueba para Eddy Control Convoys.",
+      "version": "1.0",
+      "storage": "bundled_test",
+      "path": "",
+      "size": 0,
+      "sha256": ""
+    }
+  ]
+}
