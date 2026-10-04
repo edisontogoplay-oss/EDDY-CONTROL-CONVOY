@@ -1,11 +1,11 @@
 {
   "name": "Eddy Control Convoy",
-  "status": "POR ANUNCIAR",
-  "date": "lunes",
+  "status": "PROGRAMADO",
+  "date": "LUNES 04 OCTUBRE",
   "time": "19:00",
   "timezone": "ET",
   "server": "Eddy Control Convoy",
-  "code": "EDDY-TEST-001",
+  "code": "76561199803759417/101",
   "password": "",
   "message": "Próximo convoy por anunciar. Sincroniza el launcher para recibir los cambios.",
   "game": "ATS"
