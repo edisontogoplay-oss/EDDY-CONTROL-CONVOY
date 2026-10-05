@@ -1,12 +1,15 @@
 {
   "name": "Eddy Control Convoy",
-  "status": "PROGRAMADO",
-  "date": "LUNES 04 OCTUBRE",
+  "status": "ABIERTO",
+  "date": "jueves 04 OCTUBRE",
   "time": "19:00",
   "timezone": "ET",
   "server": "Eddy Control Convoy",
   "code": "76561199803759417/101",
   "password": "",
   "message": "Próximo convoy por anunciar. Sincroniza el launcher para recibir los cambios.",
-  "game": "ATS"
+  "game": "ATS",
+  "profile_id": "",
+  "required_mod_ids": [],
+  "optional_mod_ids": []
 }
